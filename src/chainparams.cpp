@@ -563,12 +563,10 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0xb9db46ac07ac7225663ba1c1533dc797869ef17ee4d64bae2ea9d0860c5efafb"));
         assert(genesis.hashMerkleRoot == uint256S("0x4067f36c150df7c3432d6e4be2fa168f90dab56cfbed123267a02a1f1667502d"));
 
-        vSeeds.emplace_back("node01.arsagility.org");
-        vSeeds.emplace_back("node02.arsagility.org");
-        vSeeds.emplace_back("node03.arsagility.org");
-        vSeeds.emplace_back("node04.arsagility.org");
-
-
+        vSeeds.emplace_back("seednode1.arsagility.pro");
+        vSeeds.emplace_back("seednode2.arsagility.pro");
+        vSeeds.emplace_back("seednode3.arsagility.pro");
+        vSeeds.emplace_back("seednode4.arsagility.pro");
 
         // Arsa addresses start with 'A'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,23);
