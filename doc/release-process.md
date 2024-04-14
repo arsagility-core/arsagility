@@ -35,7 +35,7 @@ Check out the source code in the following directory hierarchy.
 	git clone https://github.com/arsagility-core/gitian.sigs.git
 	git clone https://github.com/arsagility-core/arsa-detached-sigs.git
 	git clone https://github.com/devrandom/gitian-builder.git
-	git clone https://github.com/arsagility-core/arsa.git
+	git clone https://github.com/arsagility-core/arsagility.git
 
 ### Arsa Core maintainers/release engineers, suggestion for writing release notes
 

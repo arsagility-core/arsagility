@@ -25,7 +25,7 @@ packages:
 - "rename"
 - "ccache"
 remotes:
-- "url": "https://github.com/arsagility-core/arsa.git"
+- "url": "https://github.com/arsagility-core/arsagility.git"
   "dir": "arsa"
 files: []
 script: |

@@ -407,7 +407,7 @@ and inputs.
 
 For example:
 ```bash
-URL=https://github.com/crowning-/arsa.git
+URL=https://github.com/crowning-/arsagility.git
 COMMIT=b616fb8ef0d49a919b72b0388b091aaec5849b96
 ./bin/gbuild --commit arsa=${COMMIT} --url arsa=${URL} ../arsa/contrib/gitian-descriptors/gitian-linux.yml
 ./bin/gbuild --commit arsa=${COMMIT} --url arsa=${URL} ../arsa/contrib/gitian-descriptors/gitian-win.yml
@@ -418,7 +418,7 @@ Building fully offline
 -----------------------
 
 For building fully offline including attaching signatures to unsigned builds, the detached-sigs repository
-and the arsa git repository with the desired tag must both be available locally, and then gbuild must be
+and the arsagility.git repository with the desired tag must both be available locally, and then gbuild must be
 told where to find them. It also requires an apt-cacher-ng which is fully-populated but set to offline mode, or
 manually disabling gitian-builder's use of apt-get to update the VM build environment.
 
@@ -489,6 +489,6 @@ Uploading signatures (not yet implemented)
 ---------------------
 
 In the future it will be possible to push your signatures (both the `.assert` and `.assert.sig` files) to the
-[arsa/gitian.sigs](https://github.com/arsagility-core/gitian.sigs/) repository, or if that's not possible to create a pull
+[arsagility.gitian.sigs](https://github.com/arsagility-core/gitian.sigs/) repository, or if that's not possible to create a pull
 request.
 There will be an official announcement when this repository is online.
