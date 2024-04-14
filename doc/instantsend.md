@@ -12,8 +12,8 @@ When a "Transaction Lock" occurs the hash of the related transaction is broadcas
 * `zmqpubhashtxlock`: publishes the transaction hash when locked via InstantSend
 
 This mechanism has been integrated into Bitcore-Node-Arsa which allows for notification to be broadcast through Insight API in one of two ways:
-* WebSocket: [https://github.com/arsa-hub/insight-api-arsa#web-socket-api](https://github.com/arsa-hub/insight-api-arsa#web-socket-api)
-* API: [https://github.com/arsa-hub/insight-api-arsa#instantsend-transactions](https://github.com/arsa-hub/insight-api-arsa#instantsend-transactions)
+* WebSocket: [https://github.com/arsagility-core/insight-api-arsa#web-socket-api](https://github.com/arsagility-core/insight-api-arsa#web-socket-api)
+* API: [https://github.com/arsagility-core/insight-api-arsa#instantsend-transactions](https://github.com/arsagility-core/insight-api-arsa#instantsend-transactions)
 
 #### Command line option
 

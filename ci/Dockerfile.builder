@@ -18,7 +18,7 @@ RUN pip3 install jinja2
 RUN pip3 install flake8
 
 # arsa_hash
-RUN git clone https://github.com/arsa-hub/arsa_hash
+RUN git clone https://github.com/arsagility-core/arsa_hash
 RUN cd arsa_hash && python3 setup.py install
 
 ARG USER_ID=1000

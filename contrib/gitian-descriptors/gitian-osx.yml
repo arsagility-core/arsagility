@@ -30,7 +30,7 @@ packages:
 - "fonts-tuffy"
 - "ccache"
 remotes:
-- "url": "https://github.com/arsa-hub/arsa.git"
+- "url": "https://github.com/arsagility-core/arsa.git"
   "dir": "arsa"
 files:
 - "MacOSX10.11.sdk.tar.gz"

@@ -12,7 +12,7 @@ This release is mandatory for all nodes.
 
 Please report bugs using the issue tracker at github:
 
-<https://github.com/arsa-hub/arsa/issues>
+<https://github.com/arsagility-core/arsa/issues>
 
 
 Upgrading and downgrading

@@ -27,8 +27,8 @@ Build-Depends: debhelper,
  libzmq3-dev
 Standards-Version: 3.9.2
 Homepage: https://www.arsagility.pro/
-Vcs-Git: git://github.com/arsa-hub/arsa.git
-Vcs-Browser: https://github.com/arsa-hub/arsa
+Vcs-Git: git://github.com/arsagility-core/arsa.git
+Vcs-Browser: https://github.com/arsagility-core/arsa
 
 Package: arsad
 Architecture: any

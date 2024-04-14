@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/arsa-hub/arsa-detached-sigs.git"
+- "url": "https://github.com/arsagility-core/arsa-detached-sigs.git"
   "dir": "signature"
 files:
 - "arsacore-osx-unsigned.tar.gz"

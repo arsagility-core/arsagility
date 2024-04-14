@@ -4,7 +4,7 @@ run using Python 3 but are compatible with Python 2.
 
 ## Step 0: Install arsa_hash
 
-https://github.com/arsa-hub/arsa_hash
+https://github.com/arsagility-core/arsa_hash
 
 ## Step 1: Download hash list
 
