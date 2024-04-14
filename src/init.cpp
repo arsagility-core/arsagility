@@ -651,7 +651,7 @@ void SetupServerArgs()
 std::string LicenseInfo()
 {
     const std::string URL_SOURCE_CODE = "<https://github.com/arsa-hub/arsa>";
-    const std::string URL_WEBSITE = "<https://arsagility.org>";
+    const std::string URL_WEBSITE = "<https://arsagility.pro>";
 
     return CopyrightHolders(_("Copyright (C)"), 2014, COPYRIGHT_YEAR) + "\n" +
            "\n" +

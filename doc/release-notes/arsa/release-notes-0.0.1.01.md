@@ -3,7 +3,7 @@ Arsa Core version 0.0.1.01
 
 Release is now available from:
 
-<https://arsagility.org/>
+<https://arsagility.pro/>
 
 This is a new major version release, bringing new features, various bugfixes
 and other improvements.

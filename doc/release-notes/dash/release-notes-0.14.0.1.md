@@ -3,7 +3,7 @@ Arsa Core version 0.14.0.1
 
 Release is now available from:
 
-  <https://www.arsagility.org/downloads/#wallets>
+  <https://www.arsagility.pro/downloads/#wallets>
 
 This is a new minor version release, bringing various bugfixes.
 

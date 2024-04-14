@@ -3,7 +3,7 @@ Arsa Core version 0.13.0.0
 
 Release is now available from:
 
-  <https://www.arsagility.org/downloads/#wallets>
+  <https://www.arsagility.pro/downloads/#wallets>
 
 This is a new major version release, bringing new features, various bugfixes and other improvements.
 
@@ -95,7 +95,7 @@ The new system is going to be activated via combination of a BIP9-like deploymen
 (`SPORK_15_DETERMINISTIC_MNS_ENABLED`).
 
 Read more: https://github.com/arsa-hub/dips/blob/master/dip-0003.md
-Upgrade instructions: https://docs.arsagility.org/DIP3-smartnode-upgrade
+Upgrade instructions: https://docs.arsagility.pro/DIP3-smartnode-upgrade
 
 DIP0004 - Simplified Verification of Deterministic Smartnode Lists
 -------------------------------------------------------------------

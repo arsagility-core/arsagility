@@ -46,7 +46,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "Arsa"
-#define QAPP_ORG_DOMAIN "arsagility.org"
+#define QAPP_ORG_DOMAIN "arsagility.pro"
 #define QAPP_APP_NAME_DEFAULT "Arsa-Qt"
 #define QAPP_APP_NAME_TESTNET "Arsa-Qt-testnet"
 #define QAPP_APP_NAME_DEVNET "Arsa-Qt-%s"

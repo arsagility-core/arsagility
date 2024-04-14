@@ -3,7 +3,7 @@ Arsa Core version 0.12.2
 
 Release is now available from:
 
-  <https://www.arsagility.org/downloads/#wallets>
+  <https://www.arsagility.pro/downloads/#wallets>
 
 This is a new major version release, bringing new features and other improvements.
 
